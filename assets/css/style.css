@@ -40,7 +40,7 @@ img {
     }
 
 .card h1 {
-    margin: 50px;
+    margin: 0px;
     text-align: center;
     font-size: 200%;
     font-weight: bold;
@@ -55,15 +55,15 @@ img {
     margin-bottom: 4%;
 }
 
-.buy-buttom {
+.botonCompra {
     background-color: #25527b;
 }
 
-.buy-buttom:hover {
+.botonCompra:hover {
     background-color: #3a7dbb;
 }
 
-.buy-buttom p {
+.botonCompra p {
     color: white;
     text-align: center;
     margin-top: 3%;
